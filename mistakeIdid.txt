@@ -1,0 +1,2 @@
+learnd from some mistakes i did :
+1. section er moddhe jodi specific kon button ba kisute margin/padding besi thake tobe jotoi width short kori kaj hobe na
