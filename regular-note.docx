@@ -1,1 +1,17 @@
-test purpose
+Ph js notes:
+map: array of obj([{}]) er property nie new array return korbe
+
+forEach: array of obj([{}]) er property nie new array return korbe na
+
+filter: condition dite chaile ba same alphabet pete chaile 
+
+find: same alphabet/word khuje ber kore1st tai rerun dibe...
+
+destructuring-
+Dan pashe array thkte pare, abar vari thkte pare abar fnc o thkte pare.
+Obj destructuring: array er khetre left right serial mntn kore..obj er khtre kore na.
+Array destructing er somoy dan pashe obj hole bam pasheo obj
+Dan pashe array hole bam pasheo array hobe
+
+Obj er property k js "keys" nam a chine
+Value k values nam a
